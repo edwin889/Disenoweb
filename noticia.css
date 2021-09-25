@@ -7,13 +7,15 @@
 }
 
 #menu{
+
 background-color: thistle;
-margin-left: 3px;
-margin-right: 3px;
-margin-top: 0px;
+margin-left: auto;
+margin-right: auto;
+margin-top: -22px;
 padding: 0px;
 
 }
+
 #letra{
     color: white;
 }
